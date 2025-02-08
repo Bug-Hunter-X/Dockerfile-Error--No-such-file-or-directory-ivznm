@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when building Docker images. The original Dockerfile fails because it tries to copy a nonexistent file (requirements.txt) or has an incorrect path. The solution provides a corrected version with a proper file path, handling potential errors, and improved clarity.
